@@ -1,0 +1,51 @@
+#wrapper {
+    height: 40vh;
+    width: auto;
+    justify-content: center;
+    margin: 0 auto;
+}
+#numberwrapper {
+    height: 21vh;
+    width: 23vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
+#numberwrapper h1 {
+    height: auto;
+    width: auto;
+    display: inline-block;
+    background:  #00c5ff54;
+    border-radius: 8px 8px 8px 8px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    font-size: 19vh;
+}
+#this {
+    background: beige;
+    margin-left: 46%;
+    width: 35vh;
+    height: 8vh;
+    display: flex;
+    margin: 0 auto;
+}
+.content {
+    height: 8vh;
+    width: 8vh;
+    font-size: 3vw;
+    font-family: fantasy;
+}
+#input {
+    width: 18.5vh;
+    font-size: 3vh;
+    text-align: center;
+    height: 7.3vh;
+}
+
+
+
+
+
